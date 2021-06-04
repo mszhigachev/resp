@@ -4,6 +4,8 @@
             { "system": "bp", "systemname": "BP", "cols": ["col1", "col2", "col3"],
               "org_list": [{ "id": "id1", "values": ["val1", "val2", "val3"]},{ "id": "id2", "values": ["val1", "val2", "val3"]}]},
             { "system": "obo", "systemname": "OBO", "cols": ["col2", "col3", "col4"],
-              "org_list": [{ "id": "id3", "values": ["val11", "val12", "val13"]},{ "id": "id4", "values": ["val11", "val12", "val13"]}]}
+              "org_list": [{ "id": "id3", "values": ["val11", "val12", "val13"]},{ "id": "id4", "values": ["val11", "val12", "val13"]}]},
+             { "system": "obo1", "systemname": "OBO1", "cols": ["col2", "col3", "col4"],
+              "org_list": [{ "id": "id5", "values": ["val11", "val12", "val13"]},{ "id": "id6", "values": ["val11", "val12", "val13"]}]}
         ]
 }
