@@ -1,7 +1,7 @@
 {"data":
  [
-  {"dhead":"dhead",data:{"cols":["col1","col2","col3"],"values":[["val1","val2","val3"],["val4","val5","val6"]]}},
-  {"dhead":"dhead2",data:{"cols":["col11","col12","co1l3"],"values":[["val11","val12","val13"],["val14","val15","val16"]]}},
-  {"dhead":"dhead3",data:null}
+  {"dhead":"dhead","data":{"cols":["col1","col2","col3"],"values":[["val1","val2","val3"],["val4","val5","val6"]]}},
+  {"dhead":"dhead2","data":{"cols":["col11","col12","co1l3"],"values":[["val11","val12","val13"],["val14","val15","val16"]]}},
+  {"dhead":"dhead3","data":null}
  ]
 }
